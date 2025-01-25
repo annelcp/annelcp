@@ -10,7 +10,8 @@
 
 ℹ️🧑🏻‍💻Mi objetivo es integrar el análisis de datos en el ámbito de la ingeniería, aportando soluciones innovadoras a través de la visualización y análisis de grandes volúmenes de información. Busco oportunidades para colaborar con equipos multidisciplinarios en el sector de IT, donde pueda aplicar mis conocimientos en ambas áreas para generar valor y mejorar los resultados de los proyectos.
 
-lenguajes y herramientas🛠️:
+
+🌌lenguajes y herramientas🛠️:
 • SQL
 • API
 • JSON
@@ -20,3 +21,6 @@ lenguajes y herramientas🛠️:
 • MATPLOTLIB
 • INGLES – BASICO
 • ESPAÑOL – NATIVO
+
+DONDE ENCONTRARME
+
