@@ -23,4 +23,4 @@
 • ESPAÑOL – NATIVO
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JORGE_ANNEL_CORCHADO_PARTIDA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/jorge-annel-corchado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JORGE_ANNEL_CORCHADO_PARTIDA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jorge-annel-corchado/?trk=opento_sprofile_goalscard)
