@@ -11,7 +11,7 @@
 ℹ️🧑🏻‍💻Mi objetivo es integrar el análisis de datos en el ámbito de la ingeniería, aportando soluciones innovadoras a través de la visualización y análisis de grandes volúmenes de información. Busco oportunidades para colaborar con equipos multidisciplinarios en el sector de IT, donde pueda aplicar mis conocimientos en ambas áreas para generar valor y mejorar los resultados de los proyectos.
 
 
-🌌lenguajes y herramientas🛠️:
+## 🌌lenguajes y herramientas🛠️:
 • SQL
 • API
 • JSON
@@ -22,5 +22,5 @@
 • INGLES – BASICO
 • ESPAÑOL – NATIVO
 
-DONDE ENCONTRARME
-
+## Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JORGE_ANNEL_CORCHADO_PARTIDA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/jorge-annel-corchado)
